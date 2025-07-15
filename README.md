@@ -1,2 +1,2 @@
 # certificates
-PDF-сертификаты, подтверждающие обучение и проектный опыт
+My verified course completion certificates (Frontend)
